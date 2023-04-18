@@ -1,7 +1,7 @@
 ### Oi, sou Leonardo
 
 
-- 💻 Cursando Ciência da Computação na UERN (Universidade Estadual do Rio Grande do Norte).
+- 💻 Cursando Ciência da Computação na UERN (Universidade do Estado do Rio Grande do Norte).
 - 🖱 Conhecimento em Front-end, C e Python.
 - 🖱 Iniciante no Back-end, me aprofudando em Python, C++.
 - 👀 Estou interessado em obter conhecimento na minha área e dessa forma conseguir oportunidades melhores.
