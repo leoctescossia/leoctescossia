@@ -1,6 +1,6 @@
 ### Oi, sou Leonardo
 
-
+* Membro da Titan Development RN *
 - 💻 Cursando Ciência da Computação na UERN (Universidade do Estado do Rio Grande do Norte).
 - 🖱 Conhecimento em PHP, C e Python.
 - 🖱 Aprofudando em Banco de Dados Relacionais.
