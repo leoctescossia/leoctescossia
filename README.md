@@ -2,8 +2,8 @@
 
 
 - 💻 Cursando Ciência da Computação na UERN (Universidade do Estado do Rio Grande do Norte).
-- 🖱 Conhecimento em Front-end, C e Python.
-- 🖱 Iniciante no Back-end, me aprofudando em Python, C++.
+- 🖱 Conhecimento em PHP, C e Python.
+- 🖱 Aprofudando em Banco de Dados Relacionais.
 - 👀 Estou interessado em obter conhecimento na minha área e dessa forma conseguir oportunidades melhores.
 
 <div align="center">
