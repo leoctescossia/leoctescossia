@@ -4,7 +4,7 @@
 - 💻 Cursando Ciência da Computação na UERN (Universidade do Estado do Rio Grande do Norte).
 - 🖱 Conhecimento em PHP, C e Python.
 - 🖱 Aprofudando em Banco de Dados Relacionais.
-- 👀 Estou interessado em obter conhecimento na minha área e dessa forma conseguir oportunidades melhores.
+
 
 <div align="center">
   <a href="https://github.com/leoctescossia">
