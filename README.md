@@ -1,9 +1,12 @@
-### Oi, sou Leonardo
+### Hi, i am Leonardo
 
-* Membro da Titan Development RN *
+* Member of Titan Development RN *
 - 💻 Cursando Ciência da Computação na UERN (Universidade do Estado do Rio Grande do Norte).
 - 🖱 Conhecimento em PHP, C e Python.
 - 🖱 Aprofudando em Banco de Dados Relacionais.
+
+
+Actually i had a lot of experience with database management. Working everyday with SQL (Postgres, MariaDB, MYSQL) and database at JSON's (MongoDB, FireBase).
 
 
 <div align="center">
