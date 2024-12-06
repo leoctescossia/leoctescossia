@@ -1,6 +1,5 @@
 ### Hi, i am Leonardo
 
-* Member of Titan Development RN *
 - 💻 Studying Computer Science on UERN (Universidade do Estado do Rio Grande do Norte).
 - 🖱 Knowledge in PHP, C, Python, React, Databases.
 
