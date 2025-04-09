@@ -4,7 +4,7 @@
 - 🖱 Knowledge in PHP, C, Python, React, Databases.
 
 
-Actually i had a lot of experience with database management. Working everyday with SQL (Postgres, MariaDB, MYSQL) and database at JSON's (MongoDB, FireBase).
+Currently i had a lot of experience with database management. Working everyday with SQL (Postgres, MariaDB, MYSQL) and database at JSON's (MongoDB, FireBase). But now, i'm working a lot with React Native,Flutter (Mobile Languages) and Javascript, Ruby for Web Development.
 
 
 <div align="center">
